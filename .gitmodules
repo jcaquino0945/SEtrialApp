@@ -1,0 +1,9 @@
+[submodule "herokuBackend"]
+	path = herokuBackend
+	url = https://github.com/jcaquino0945/herokuBackend.git
+[submodule "herokuBackendhtt"]
+	path = herokuBackendhtt
+	url = https://github.com/jcaquino0945/herokuBackend.git
+[submodule "herokuFrontend"]
+	path = herokuFrontend
+	url = https://github.com/jcaquino0945/herokuFrontend.git
